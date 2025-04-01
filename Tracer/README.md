@@ -40,4 +40,10 @@ result = subprocess.run(
 # IPDefinedError Если IP-адрес внутренний или зарезервированный, возвращаем None.
 
   ```bash
-  python Tracer.py <target>
+  python3 Tracer.py <target>
+```
+
+
+# Пример работы
+
+![Пример работы](/Tracer.png)
