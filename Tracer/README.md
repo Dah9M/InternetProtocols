@@ -28,6 +28,8 @@ result = subprocess.run(
 )
 ```
 
+
+
 # Метод get_as_info получает информацию об автономной системе для заданного IP.
 ```python
     def get_as_info(self, ip):
